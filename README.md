@@ -1,2 +1,6 @@
-# 本io 原 fork 于suyan/suyan.github.io
-为了便于折腾搞了个复制版
+this  is not a fork ver.it's a copy  just easy to pull requests test
+
+sourcce  fork  from suyan/suyan.github.io
+
+
+
